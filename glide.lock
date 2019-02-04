@@ -1,0 +1,28 @@
+hash: db41e4090160660509869e8dc4fa4d396ada6f51eff33798f86a05ad4d1563ae
+updated: 2019-02-04T12:54:03.751174978+06:00
+imports:
+- name: github.com/dgrijalva/jwt-go
+  version: 06ea1031745cb8b3dab3f6a236daf2b0aa468b7e
+- name: github.com/go-macaron/inject
+  version: d8a0b8677191f4380287cfebd08e462217bac7ad
+- name: github.com/go-xorm/builder
+  version: 1d658d7596c25394aab557ef5b50ef35bf706384
+- name: github.com/go-xorm/core
+  version: ccc80c1adf1f6172bbc548877f50a1163041a40a
+- name: github.com/go-xorm/xorm
+  version: 1f39c590c64924f358c0d89016ac9b2bb84e9125
+- name: github.com/lib/pq
+  version: 4ded0e9383f75c197b3a2aaa6d590ac52df6fd79
+  subpackages:
+  - oid
+- name: github.com/Unknwon/com
+  version: 41959bdd855fb7db467f78865d5f9044507df1cd
+- name: golang.org/x/crypto
+  version: de0752318171da717af4ce24d0a2e8626afaeb11
+  subpackages:
+  - pbkdf2
+- name: gopkg.in/ini.v1
+  version: 6ed8d5f64cd79a498d1f3fab5880cc376ce41bbe
+- name: gopkg.in/macaron.v1
+  version: dfcb80ca86e8534962c62812efd93209c7e600e7
+testImports: []

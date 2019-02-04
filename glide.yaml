@@ -1,0 +1,12 @@
+package: macaron-api
+import:
+- package: github.com/dgrijalva/jwt-go
+  version: ^3.2.0
+- package: github.com/go-xorm/core
+  version: ^0.6.2
+- package: github.com/go-xorm/xorm
+  version: ^0.7.1
+- package: github.com/lib/pq
+  version: ^1.0.0
+- package: gopkg.in/macaron.v1
+  version: ^1.3.2
